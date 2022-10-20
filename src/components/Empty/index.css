@@ -1,0 +1,18 @@
+.empty {
+  width: 100%;
+  margin-top: 4rem;
+  text-align: center;
+  filter: opacity(75%);
+}
+
+.empty__img {
+  height: 12rem;
+  margin: 2rem 0;
+}
+
+.empty__title {
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: #302f2f;
+  margin-bottom: 1rem;
+}
