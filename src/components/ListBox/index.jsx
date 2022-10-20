@@ -7,8 +7,6 @@ import {
   faXmark,
 } from "@fortawesome/free-solid-svg-icons";
 
-// 1160
-
 const List = styled.div`
   font-weight: 400;
   font-size: 1.125rem;
